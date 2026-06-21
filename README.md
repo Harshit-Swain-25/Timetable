@@ -47,7 +47,7 @@ The timetable includes:
 1. Download or clone this repository.
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Harshit-Swain-25/Timetable.git
 ```
 
 2. Open the project folder.
